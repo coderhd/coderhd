@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 Hello! I'm Harsh, a product engineer based in Ahmedabad who enjoys turning ideas into products people actually want to use. I work across the stack, from pixel-perfect interfaces to the backends and AI features that power them, with an eye for the details that make software feel genuinely well-crafted.
 
